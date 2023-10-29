@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Up2date</string>
+    <string-array name="category_options">
+        <item>Select Category</item>
+        <item>Student - Main Campus</item>
+        <item>Student - CUCEK</item>
+        <item>Teacher</item>
+        <item>HOD</item>
+        <item>Office Staff</item>
+        <item>Guest</item>
+    </string-array>
+</resources>
